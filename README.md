@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+To generate diagram of Active Record models:
+bundle exec erd
